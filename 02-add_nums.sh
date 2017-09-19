@@ -20,5 +20,6 @@ area=$((height*width))
 
 echo "The area is $area"
 
+
 # exercise: ask the user for the width and height and present total
 # number of pixels
